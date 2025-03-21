@@ -1,4 +1,4 @@
-###Exercício 01###
+### Exercício 01 ###
 
 Num mundo repleto de equações e problemas matemáticos, um estudante de programação se
 depara com o desafio de simplificar suas tarefas diárias. Ele percebe que, ao invés de recorrer
